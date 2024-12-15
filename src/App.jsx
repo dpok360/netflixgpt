@@ -1,13 +1,7 @@
-import './App.css';
+import Body from './components/Body';
 
 function App() {
-  return (
-    <div className="h-screen bg-appleWhite">
-      <h1 className="font-inter text-darkBlack text-xl p-10 rounded-lg">
-        Netflix gpt
-      </h1>
-    </div>
-  );
+  return <Body />;
 }
 
 export default App;
