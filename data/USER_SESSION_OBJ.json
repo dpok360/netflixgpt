@@ -1,0 +1,30 @@
+{
+  "$id": "6761036600263cfc390b",
+  "$createdAt": "2024-12-17T04:52:11.691+00:00",
+  "$updatedAt": "2024-12-17T04:52:11.691+00:00",
+  "name": "abc",
+  "registration": "2024-12-17T04:52:11.686+00:00",
+  "status": true,
+  "labels": [],
+  "passwordUpdate": "2024-12-17T04:52:11.686+00:00",
+  "email": "dpk@ddd.com",
+  "phone": "",
+  "emailVerification": false,
+  "phoneVerification": false,
+  "mfa": false,
+  "prefs": {},
+  "targets": [
+    {
+      "$id": "6761037bb5be8fa0435f",
+      "$createdAt": "2024-12-17T04:52:11.744+00:00",
+      "$updatedAt": "2024-12-17T04:52:11.744+00:00",
+      "name": "",
+      "userId": "6761036600263cfc390b",
+      "providerId": null,
+      "providerType": "email",
+      "identifier": "dpk@ddd.com",
+      "expired": false
+    }
+  ],
+  "accessedAt": "2024-12-17T04:52:11.686+00:00"
+}
